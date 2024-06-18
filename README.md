@@ -37,6 +37,3 @@ Please adhere to the coding standards used in this repository and ensure your an
 This project is licensed under the GNU General Public License (GPL) - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-### Additional Tips:
-- **License**: Specify the license under which your animations are distributed. Adjust the license section according to your preferred licensing terms (e.g., MIT, GPL, etc.).
