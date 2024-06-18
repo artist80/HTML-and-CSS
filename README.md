@@ -2,17 +2,7 @@
 
 # HTML and CSS Animation Showcase
 
-Welcome to the HTML and CSS Animation Showcase repository! This collection features a variety of animations created using HTML and CSS.
-
-## Table of Contents
-- [Overview](#overview)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Overview
-
-Explore a collection of HTML and CSS animations showcasing different techniques, effects, and creative applications.
+Welcome to the HTML and CSS Animation Showcase repository! This repository contains various HTML and CSS animations licensed under the GNU General Public License (GPL).
 
 ## Usage
 
@@ -44,12 +34,9 @@ Please adhere to the coding standards used in this repository and ensure your an
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License (GPL) - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ### Additional Tips:
-- Customize this template with specific details about your project, including features, technologies used, and any additional sections you find relevant.
-- Provide clear and concise instructions for users to get started with your animations.
-- Encourage community engagement by outlining how others can contribute effectively.
-- Specify the licensing terms under which your animations are distributed to ensure clarity and legal compliance.
+- **License**: Specify the license under which your animations are distributed. Adjust the license section according to your preferred licensing terms (e.g., MIT, GPL, etc.).
