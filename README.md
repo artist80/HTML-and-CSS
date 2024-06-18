@@ -1,6 +1,6 @@
 ---
 
-# Project Title
+# HTML & CSS Animations
 
 Brief description of your project.
 
