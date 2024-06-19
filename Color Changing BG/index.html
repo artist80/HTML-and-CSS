@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Changing Background</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            animation: background-change 5s infinite;
+        }
+
+        @keyframes background-change {
+            0% { background-color: #3498db; }
+            25% { background-color: #e74c3c; }
+            50% { background-color: #f1c40f; }
+            75% { background-color: #2ecc71; }
+            100% { background-color: #3498db; }
+        }
+    </style>
+</head>
+<body>
+    <div class="content">Hey, I am CompcIT</div>
+</body>
+</html>
