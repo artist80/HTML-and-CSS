@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scaling Text</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+
+        .scale-text {
+            font-size: 2em;
+            animation: scale 2s infinite;
+        }
+
+        @keyframes scale {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.5); }
+        }
+    </style>
+</head>
+<body>
+    <div class="scale-text">Hello CompcIT</div>
+</body>
+</html>
