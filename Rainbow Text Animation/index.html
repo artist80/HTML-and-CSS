@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rainbow Text</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #000;
+            overflow: hidden;
+            color: transparent;
+            font-size: 4em;
+            background: linear-gradient(45deg, #f9ca24, #e84118, #2980b9, #27ae60, #8e44ad, #f39c12, #1abc9c);
+            background-size: 600%;
+            animation: rainbow-text 10s ease infinite;
+            -webkit-background-clip: text;
+            background-clip: text;
+        }
+
+        @keyframes rainbow-text {
+            0% { background-position: 0 0; }
+            100% { background-position: 600% 0; }
+        }
+    </style>
+</head>
+<body>
+    <div>Rainbow Text Animation</div>
+</body>
+</html>
